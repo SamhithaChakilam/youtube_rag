@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+groq
+langchain
+langchain-community
+langchain-huggingface
+youtube-transcript-api
+sentence-transformers
+faiss-cpu
+rank-bm25
+numpy
+scikit-learn
+torch
+transformers
+requests
