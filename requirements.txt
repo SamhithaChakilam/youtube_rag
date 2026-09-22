@@ -10,6 +10,7 @@ faiss-cpu
 rank-bm25
 numpy
 scikit-learn
-torch
 transformers
 requests
+torch==2.6.0
+torchvision==0.21.0
