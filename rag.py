@@ -98,7 +98,7 @@ def get_transcript(video_id):
 
         # API key is optional
         try:
-            api_key = st.secrets.get(
+            api_key = os.getenv(
                 "FREETRANSCRIPT_API_KEY"
             )
         except Exception:
